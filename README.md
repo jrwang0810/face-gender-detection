@@ -4,13 +4,16 @@
 
 - Clone this repo
 - Install requirements
-- Run the script
-  python app.py
+- Navigate to the project folder
+  Run the script
+
+          python apppy
+
 - Go to http://127.0.0.1:5002/
 - Done! :tada:
 
 :point_down: Screenshot:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5097752/71063354-8caa1d00-213a-11ea-86eb-879238887c1f.png" height="420px" alt="">
+  <img src="https://github.com/jrwang0810/face-gender-detection/blob/main/screenshots/cyndi-predict.png" height="420px" alt="">
 </p>
