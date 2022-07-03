@@ -1,6 +1,10 @@
 # Deploy OpenCV and Keras Models with A Flask Web App: Face Detection and Gender Classification
 
-## Getting Started in 10 Minutes
+## Try the online demo here:
+
+- http://34.139.30.238:5002/
+
+## Configure and run at your local machine
 
 - Clone this repo
 - Install requirements
