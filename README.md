@@ -20,6 +20,7 @@
 ## References
 
 Some web app development and neural network models are refering from:
-https://github.com/imfing/keras-flask-deploy-webapp
-https://github.com/vipstone/faceai
-https://github.com/oarriaga/face_classification
+
+- https://github.com/imfing/keras-flask-deploy-webapp
+- https://github.com/vipstone/faceai
+- https://github.com/oarriaga/face_classification
